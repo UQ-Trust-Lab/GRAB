@@ -5,7 +5,7 @@
       <paths name="shane@trustlab:22 agent">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/shane/GRAB" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="GRAB" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

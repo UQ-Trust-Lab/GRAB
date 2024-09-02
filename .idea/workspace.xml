@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f93e729-8f34-40aa-9337-a906d3ddd9a5" name="Changes" comment="Updated README.md">
-      <change afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/select_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cola_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_attack/bert_easy_attack.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_attack/bert_benchmark_attack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_attack/bert_hard_attack.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_attack/bert_practical_attack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_attack/bert_hard_no_DL_attack.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_attack/bert_practical_no_DL_attack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/helper_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/helper_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ablation/bert_practical_label_longest_length_attack.py" beforeDir="false" afterPath="$PROJECT_DIR$/ablation/bert_practical_label_longest_length_attack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/select_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/select_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +53,94 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.select_data">
-    <configuration name="bert_benchmark_attack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bert_practical_label_longest_length_no_DL_attack">
+    <configuration name="bert_practical_label_longest_length_no_DL_attack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GRAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_attack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ablation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_attack/bert_benchmark_attack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ablation/bert_practical_label_longest_length_no_DL_attack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bert_practical_no_DL_attack_prune" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GRAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/defense" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/defense/bert_practical_no_DL_attack_prune.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bert_practical_no_DL_no_PM_attack_prune" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GRAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/defense" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/defense/bert_practical_no_DL_no_PM_attack_prune.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bert_practical_no_PM_attack_prune" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GRAB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/defense" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/defense/bert_practical_no_PM_attack_prune.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -104,8 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bert_practical_label_longest_length_no_DL_attack" />
         <item itemvalue="Python.select_data" />
-        <item itemvalue="Python.bert_benchmark_attack" />
+        <item itemvalue="Python.bert_practical_no_DL_no_PM_attack_prune" />
+        <item itemvalue="Python.bert_practical_no_DL_attack_prune" />
+        <item itemvalue="Python.bert_practical_no_PM_attack_prune" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +205,12 @@
       <workItem from="1720503869487" duration="197000" />
       <workItem from="1720504074652" duration="699000" />
       <workItem from="1720504977077" duration="29947000" />
+      <workItem from="1720945228457" duration="21485000" />
+      <workItem from="1721904114391" duration="11634000" />
+      <workItem from="1722301766043" duration="3620000" />
+      <workItem from="1723695336935" duration="447000" />
+      <workItem from="1723780429476" duration="13748000" />
+      <workItem from="1725185099393" duration="1862000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README.md">
       <option name="closed" value="true" />
@@ -176,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715139561798</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1721213565692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721213565692</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +271,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GRAB$roberta_tiny_practical_no_DL_attack.coverage" NAME="roberta_tiny_practical_no_DL_attack Coverage Results" MODIFIED="1721208384010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_large_practical_attack.coverage" NAME="roberta_large_practical_attack Coverage Results" MODIFIED="1721208135661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_attack_noise.coverage" NAME="bert_practical_attack_noise Coverage Results" MODIFIED="1721212003888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
     <SUITE FILE_PATH="coverage/GRAB$bert_easy_attack.coverage" NAME="bert_benchmark_attack Coverage Results" MODIFIED="1720582953698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main_attack" />
-    <SUITE FILE_PATH="coverage/GRAB$select_data.coverage" NAME="select_data Coverage Results" MODIFIED="1720941088274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_base_practical_no_DL_attack.coverage" NAME="roberta_base_practical_no_DL_attack Coverage Results" MODIFIED="1721207933171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_large_practical_no_DL_grad_clip_attack.coverage" NAME="roberta_large_practical_no_DL_grad_clip_attack Coverage Results" MODIFIED="1721210167000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_DL_attack_noise.coverage" NAME="bert_practical_no_DL_attack_noise Coverage Results" MODIFIED="1721212084735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_DL_dropout_attack.coverage" NAME="bert_practical_no_DL_dropout_attack Coverage Results" MODIFIED="1721210753317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_dropout_attack.coverage" NAME="bert_practical_dropout_attack Coverage Results" MODIFIED="1721210649719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_DL_no_NN_attack_noise.coverage" NAME="bert_practical_no_DL_no_NN_attack_noise Coverage Results" MODIFIED="1721212239272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_tiny_practical_attack.coverage" NAME="roberta_tiny_practical_attack Coverage Results" MODIFIED="1721208323589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_attack_prune.coverage" NAME="bert_practical_attack_prune Coverage Results" MODIFIED="1721212995847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_DL_no_PM_attack_prune.coverage" NAME="bert_practical_no_DL_no_PM_attack_prune Coverage Results" MODIFIED="1721213202719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_tiny_hard_attack.coverage" NAME="bert_tiny_hard_attack Coverage Results" MODIFIED="1721205872448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_large_practical_grad_clip_attack.coverage" NAME="bert_large_practical_grad_clip_attack Coverage Results" MODIFIED="1721209902520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_DL_attack_prune.coverage" NAME="bert_practical_no_DL_attack_prune Coverage Results" MODIFIED="1721213110990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$select_data.coverage" NAME="select_data Coverage Results" MODIFIED="1721281055568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_large_practical_no_DL_attack.coverage" NAME="roberta_large_practical_no_DL_attack Coverage Results" MODIFIED="1721208195917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_large_practical_no_DL_grad_clip_attack.coverage" NAME="bert_large_practical_no_DL_grad_clip_attack Coverage Results" MODIFIED="1721209942777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_label_attack.coverage" NAME="bert_practical_label_attack Coverage Results" MODIFIED="1721211395867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$roberta_large_practical_grad_clip_attack.coverage" NAME="roberta_large_practical_grad_clip_attack Coverage Results" MODIFIED="1721210115317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ablation" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_NN_attack_noise.coverage" NAME="bert_practical_no_NN_attack_noise Coverage Results" MODIFIED="1721212176575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
+    <SUITE FILE_PATH="coverage/GRAB$bert_practical_no_PM_attack_prune.coverage" NAME="bert_practical_no_PM_attack_prune Coverage Results" MODIFIED="1721213065869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defense" />
   </component>
 </project>

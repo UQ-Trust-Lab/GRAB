@@ -21,7 +21,6 @@ setting = args.setting
 batch_size = args.batch_size
 dataset = args.dataset
 ablation = args.ablation
-method = args.method
 dropout = args.dropout
 defense = args.defense
 noise = args.noise

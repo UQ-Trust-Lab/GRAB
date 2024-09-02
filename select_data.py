@@ -4,7 +4,7 @@ import numpy as np
 
 np.random.seed(101)
 
-dataset = "rotten_tomatoes"
+dataset = "cola"
 
 seq_keys = {
     'cola': 'sentence',

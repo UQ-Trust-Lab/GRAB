@@ -2,30 +2,43 @@
 
 ![image](Overview.png)
 
-<h2> Environment setup </h2>
-<h3>Install the conda environment with the following commands one by one:</h3>
-<br>
-<code>conda create -n GRAB python=3.9.4</code>
-<br>
-<code>conda activate GRAB</code>
-<br>
-<code>pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118</code>
-<br>
-<code>pip install transformers==4.34.1 joblib==1.3.2 numpy==1.26.4 datasets==1.16.1</code>
+## Environment setup
+### Install the conda environment with the following commands one by one:
 
-<h2> Experiments </h2>
+```bash
+conda create -n GRAB python=3.9.4
+conda activate GRAB
+pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+pip install transformers==4.34.1 joblib==1.3.2 numpy==1.26.4 datasets==1.16.1 torchmetrics==1.4.1 nltk==3.9.1
+```
 
-<h3> Benchmark Settings (Figure 2 in paper)</h3>
+### Download the required data for nltk in the python console
 
-<h4>GRAB</h4>
+```bash
+python
+```
+
+```python
+import nltk
+nltk.download('punkt_tab')
+```
+
+## Experiments
+
+### Benchmark Settings (Figure 2 in paper)
+
+#### GRAB
 
 To run our attack, from the root directory
-<br>
-<code>cd main_attack</code>
+```bash
+cd main_attack
+```
+
 
 Create symbolic link of utils.
-<br>
-<code>ln -s ../utils utils</code>
+```bash
+ln -s ../utils utils
+```
 
 Run the attack with the following command.
 <br>

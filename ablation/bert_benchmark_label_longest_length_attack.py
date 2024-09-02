@@ -2,10 +2,9 @@ import time
 from transformers import BertForSequenceClassification, BertTokenizerFast
 from utils import *
 from argparse import ArgumentParser
-
+import gc
 
 parser = ArgumentParser(description='bert_attack')
-
 parser.add_argument('--device', default="cuda:0", type=str, help='cuda device')
 parser.add_argument('--model', default="bert-base-uncased", type=str, help='large language model')
 parser.add_argument('--dataset', default="cola", type=str, help='dataset for task')
@@ -16,11 +15,9 @@ parser.add_argument("--recover_batch", default=0, type=int, help="batch to recov
 parser.add_argument("--run", default="first", type=str, help="number of run")
 args = parser.parse_args()
 
-# This is to avoid error when running on a Mac
-DEVICE = args.device if (torch.cuda.is_available() or torch.has_mps) else "cpu"
-print(DEVICE)
+DEVICE = args.device
 BATCH_SIZE = args.batch_size
-RESULT_FILE = f"../results/ablation/label_longest_length/{args.dataset}_{args.run}_run_b_{BATCH_SIZE}.txt"
+RESULT_FILE = f"../results/ablation/label_longest_length/benchmark/{args.dataset}_{args.run}_run_b_{BATCH_SIZE}.txt"
 PARALLEL = args.parallel
 RECOVER_BATCH = args.recover_batch
 lr_decay_type = args.lr_decay_type
@@ -28,9 +25,6 @@ print("Doing parallel: ", PARALLEL)
 
 server = BertForSequenceClassification.from_pretrained(args.model).to(DEVICE)
 tokenizer = BertTokenizerFast.from_pretrained(args.model)
-# We do not train the token embedding and position embedding layers to line up with SOTA
-server.bert.embeddings.word_embeddings.weight.requires_grad = False
-server.bert.embeddings.position_embeddings.weight.requires_grad = False
 
 client = copy.deepcopy(server)
 
@@ -54,14 +48,13 @@ train_loop = tqdm(train_loader, leave=True)
 batch_num = 1
 for batch_sequences, batch_labels in train_loop:
     server = copy.deepcopy(client)
-    client.train()
-    server.train()
-
+    # Turn off dropout
+    client.eval()
     tokenized_batch = tokenizer(list(batch_sequences), return_tensors="pt", padding=True, truncation=True)
     tokenized_batch = {key: value.to(DEVICE) for key, value in tokenized_batch.items()}
     tokenized_batch["labels"] = torch.LongTensor(batch_labels).to(DEVICE)
 
-    loss, attentions, hidden_states, logits = train_batch_with_frozen_weights(client, tokenized_batch, DEVICE)
+    loss, attentions, hidden_states, logits = train_batch(client, tokenized_batch, DEVICE)
     if batch_num < RECOVER_BATCH:
         batch_num += 1
         continue
@@ -86,7 +79,7 @@ for batch_sequences, batch_labels in train_loop:
     print("Current Reference:\n")
     for i in range(tokenized_batch["input_ids"].shape[0]):
         print(tokenizer.decode(tokenized_batch["input_ids"][i].tolist()))
-    with open(RESULT_FILE, "a") as f:
+    with open(RESULT_FILE, "a", encoding="utf-8") as f:
         f.write("-------------------------\n")
         f.write(f"Batch {batch_num}:\n")
         f.write("Current Reference:\n")
@@ -94,68 +87,7 @@ for batch_sequences, batch_labels in train_loop:
             f.write(tokenizer.decode(tokenized_batch["input_ids"][i].tolist(), skip_special_tokens=True) + "\n")
 
     token_set = list(range(len(tokenizer)))
-
-    # To get the shapes of the input to all dropout layers, we create random dummy data and pass it through the model
-    dummy_data = []
-    for i in range(BATCH_SIZE):
-        sequence = [tokenizer.cls_token_id]
-        for j in range(1, longest_length - 1):
-            sequence.append(random.choice(token_set))
-        sequence.append(tokenizer.sep_token_id)
-        sequence = sequence + [tokenizer.pad_token_id] * (sequence_length - len(sequence))
-        dummy_data.append(sequence)
-
-    # Randomly initialize the dummy labels
     dummy_label = torch.randn(BATCH_SIZE, 2).to(DEVICE)
-
-    # First we extract all dropout layers in the server model
-    dropout_layers = []
-    for name, module in server.named_modules():
-        if isinstance(module, torch.nn.Dropout):
-            dropout_layers.append((name, module))
-
-
-    # Create new dropout layers to get shapes of the previous layer's output
-    dropout_layers_get_shape = []
-    for i in range(len(dropout_layers)):
-        dropout_layers_get_shape.append(CustomDropoutLayerGetShape(p=dropout_layers[i][1].p))
-
-    # Substitute the dropout layers
-    server.bert.embeddings.dropout = dropout_layers_get_shape[0]
-    j = 1
-    for i in range(0, 12):
-        server.bert.encoder.layer[i].attention.self.dropout = dropout_layers_get_shape[j]
-        j += 1
-        server.bert.encoder.layer[i].attention.output.dropout = dropout_layers_get_shape[j]
-        j += 1
-        server.bert.encoder.layer[i].output.dropout = dropout_layers_get_shape[j]
-        j += 1
-    server.dropout = dropout_layers_get_shape[-1]
-
-    # Pass the dummy data through the model to get the shapes of the input to all dropout layers
-    outputs = server(input_ids=torch.LongTensor(dummy_data).to(DEVICE), labels=torch.randint(0, 2, (BATCH_SIZE,)).to(DEVICE))
-    shapes = []
-    for i in range(len(dropout_layers_get_shape)):
-        shapes.append(dropout_layers_get_shape[i].shape)
-
-    # Now initialise new dropout layers with fixed masks and the shapes
-    dropout_layers_fixed = []
-    for i in range(len(dropout_layers)):
-        dropout_layer = CustomDropoutLayer(shapes[i], DEVICE, p=dropout_layers[i][1].p)
-        dropout_layer.init_mask()
-        dropout_layers_fixed.append(dropout_layer)
-
-    # Substitute the dropout layers
-    server.bert.embeddings.dropout = dropout_layers_fixed[0]
-    j = 1
-    for i in range(0, 12):
-        server.bert.encoder.layer[i].attention.self.dropout = dropout_layers_fixed[j]
-        j += 1
-        server.bert.encoder.layer[i].attention.output.dropout = dropout_layers_fixed[j]
-        j += 1
-        server.bert.encoder.layer[i].output.dropout = dropout_layers_fixed[j]
-        j += 1
-    server.dropout = dropout_layers_fixed[-1]
 
     # Record the time
     start_time = time.time()
@@ -169,12 +101,12 @@ for batch_sequences, batch_labels in train_loop:
     for i in range(BATCH_SIZE):
         accumulated_separate_tokens.append([])
 
-    optimize_dropout_mask = True
+    optimize_dropout_mask = False
     lr = 0.01
     gc.collect()
     torch.cuda.empty_cache()
-    # Turn on dropout
-    server.train()
+    # Turn off dropout
+    server.eval()
     for i in range(5):
         # if i > 1:
         #     optimize_dropout_mask = False
