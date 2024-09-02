@@ -12,7 +12,7 @@ pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu11
 pip install transformers==4.34.1 joblib==1.3.2 numpy==1.26.4 datasets==1.16.1 torchmetrics==1.4.1 nltk==3.9.1
 ```
 
-### Download the required data for nltk in the python console
+### Download the required data for nltk in the python consolef
 
 ```bash
 python

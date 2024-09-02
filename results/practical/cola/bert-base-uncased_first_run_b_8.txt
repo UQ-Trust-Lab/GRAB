@@ -1,0 +1,2608 @@
+-------------------------
+Batch 1:
+Current Reference:
+harriet alternated folk songs and pop songs together.
+who do you think that will question seamus first?
+the boy ran.
+i wonder who bill saw and liked mary.
+while i might want to, this is the kind of thing that harris has already suggested.
+who has seen my snorkel?
+which goddess helped us?
+they have no old.
+Iter 0 continuous solution:
+you who bill think who question seamus wonder? that
+minnesota " julian critic violation interactions tongue register tucker
+##nifiedimated lies
+harriet?rx songs songs which likewiseell
+?. seen has my usnorkel goddess s instead who which rat helped goddesskel?
+which would harris? harris?,
+the ran. boy.
+##otto discoveries as face if
+Iter 0 continuous solution obj:
+-229.7051544189453
+iter 0:
+?? you bill who question seamus that? you
+" julian julian " violation " interactions tongue julian register
+liesimatedimated lies
+?? songsrr harriet which?ell
+which skel has my snorkelnor?? who which goddess helped us us?
+which would which harris harris? which,
+boy ran. boy.
+face if if face if
+-201.3749237060547
+iter 1:
+who? you who who think seamus?? you
+tucker " tongue " violation " interactions tongue julian register
+##imatednifiedimatednified
+##r? songsr songs songs which? harriet
+who s seen my my snorkelkelkel? who which goddess helped us us?
+which would? harris harris? which,
+boy ran. boy.
+face if if face if
+-193.710205078125
+iter 2:
+who? you who who think seamus you? you
+tucker " tongue " violation " interactions tongue julian register
+##imatednifiedimatednified
+##r? songsr songs songs which? harriet
+who s seen my my snorkelkelkel? who which goddess helped us us?
+which would? harris harris? which,
+boy ran. boy.
+face if if face if
+-193.693603515625
+iter 3:
+you? who who who think seamus?? you
+tucker " julian " violation " interactions tongue tucker register
+##imatednifiedimatednified
+##r? songsr songs songs which? harriet
+who s seen my my snorkelkelkel? who which goddess helped us us?
+which would? harris harris? which,
+boy ran. boy.
+face if if face if
+-193.63404846191406
+iter 4:
+you? who who who wonder seamus?? you
+tucker " julian " violation " interactions tongue tucker register
+##imatednifiedimatednified
+##r? songsr songs songs which? harriet
+who s seen my my snorkelkelkel? who which goddess helped us us?
+which would? harris harris? which,
+boy ran. boy.
+face if if face if
+-193.63034057617188
+Iter 1 continuous solution:
+you wonder who who has question seamus?? you
+has has? mynor "kel tongue harris seen
+my seen who?
+##r harriet alternated folk songs which. harriet
+who has seen my my snorkelkelkel? who which goddess helped us us?
+which goddess?nor helped? us,
+boy ran. boy.
+ran boy has. the
+Iter 1 continuous solution obj:
+-171.0184783935547
+iter 0:
+you wonder who who has think seamus who? you
+seen interactions? violationnornorkel has harris?
+who seen lies?
+##d harriet alternated folk songs folk. harriet
+who has seen seen my snorkel. snor who haskel helped us goddess?
+which goddess?nor helped? us,
+boy ran. boy.
+face if face..
+-161.81564331054688
+iter 1:
+you wonder? who has think seamus has? you
+my tongue my " register " interactionskel tucker?
+who seen lies?
+##d harriet alternated folk songs?. harriet
+who has seen seen my snorkel. snor who has us helped us goddess?
+which goddess?nor helped? us,
+boy ran. boy.
+boy boy face discoveries.
+-160.8369140625
+iter 2:
+you wonder that who has wonder seamus?? who
+tucker tongue has my " interactions " tonguekel seen
+who seen lies?
+folk? harrietd songs. harriet? folk
+who has seen seen my snorkel? my. who who rat helped instead us?
+which goddess goddessnor helped? us?
+boy ran. boy.
+ran as if. boy
+-159.7992401123047
+iter 3:
+you wonder who think has question seamus seamus??
+my tongue has my " tucker "nor has seen
+who seen lies?
+folk? harrietd songs. harriet? folk
+who has seen seen my snorkel? my. who who rat helped instead us?
+which goddess goddessnor helped? us?
+boy ran. boy.
+ran as if. boy
+-159.5568389892578
+iter 4:
+you wonder who who has wonder seamus think??
+julian interactions my my?norkel minnesota harris has
+who seen lies?
+harriet? songs? songs.r folk which
+who has seen my my snorkel. rat? who instead s seen seen us?
+which goddess?nor helped us us?
+boy ran. boy.
+ran as if. boy
+-158.994140625
+Iter 2 continuous solution:
+you wonder who who do question seamus first? that
+this while kind i. thing suggested that harris has
+who seen lies?
+harriet and songs no folk alternated songs.
+who has seen my my snorkel. rat? who instead s seen seen us?
+which goddess?nor helped us us?
+boy ran. boy.
+ran the bill. boy
+Iter 2 continuous solution obj:
+-146.950927734375
+iter 0:
+you wonder who that has question seamus think? first
+this this kind kind. kind thing that harris has
+who seen who?
+harriet songs alternate and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped us us?
+boy ran. boy.
+ran. the the boy
+-142.63502502441406
+iter 1:
+you wonder who who has question seamus think? that
+this this this kind. kind thing that harris has
+who seen who?
+harriet songs alternate and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-142.13320922851562
+iter 2:
+you wonder who who do question seamus first? that
+this has this kind. kind thing that harris has
+who seen who?
+harriet songs alternate and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-141.87591552734375
+iter 3:
+you wonder who who do question seamus first? that
+this has this kind. kind thing that harris has
+who seen who?
+harriet songs alternate and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-141.87591552734375
+iter 4:
+you wonder who who do question seamus first? that
+this has this kind. kind thing that harris has
+who seen who?
+harriet songs alternate and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-141.87591552734375
+Iter 3 continuous solution:
+you wonder who who do question seamus first? that
+this is the to. kind thing which harris suggested
+which helped god?
+harriet old together no folk alternated songs.
+which has seen my my snorkelkelkel? who instead s seen seen s?
+which goddess?nor helped? us?
+the ran. boy.
+ran. the which boy
+Iter 3 continuous solution obj:
+-123.36157989501953
+iter 0:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+my seen which?
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-114.39885711669922
+iter 1:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+which helped seen?
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-114.358154296875
+iter 2:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+which helped seen?
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-114.358154296875
+iter 3:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+which helped seen?
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-114.358154296875
+iter 4:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+which helped seen?
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-114.358154296875
+Iter 4 continuous solution:
+you wonder who who do question seamus first? will
+this is the to. kind thing that harris suggested
+while suggested might,
+harriet old together no folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+the ran. boy.
+ran. the the boy
+Iter 4 continuous solution obj:
+-106.74405670166016
+iter 0:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-105.42200469970703
+iter 1:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-105.42200469970703
+iter 2:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-105.42200469970703
+iter 3:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-105.42200469970703
+iter 4:
+you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+-105.42200469970703
+Discrete solution is better
+Discrete solution:you wonder who who do question seamus first? that
+this is the this. kind thing that harris has
+while suggested might,
+harriet songs together and folk alternated songs.
+who has seen my my snorkelkelkel? who instead s seen seen us?
+which goddess?nor helped, us?
+boy ran. boy.
+ran. the the boy
+Runtime: 25292.65 seconds
+-------------------------
+Batch 2:
+Current Reference:
+john tries to meet not mary.
+the unidentified victim was apparently struck during the early morning hours.
+the logs piled the barge high.
+during the early evening, saturn can be found in the north, while jupiter rises in the east.
+he walked up the hill.
+it is this problem that the sooner you solve the more easily you'll satisfy the folks up at corporate headquarters.
+mary has never kissed a man who is taller than john.
+after ten soldiers had left, seven more ones came in.
+Iter 0 continuous solution:
+after mary seven more in soldiers.
+you is this men ll is the corporate folks solve satisfy.
+he the up hill not walked.
+spirit his museums the and shooting currentlyurbed reunification. group tomorrow marchingelial already until why magnificent so
+. was dotsia struck.
+struck evening the early east the could, the. found saturn can occurred, jupiter while in rises during evening longer.
+. never. has victim only never kiss kissed is man mary
+morning unidentified during. apparently during struck unidentified hours victim the.
+Iter 0 continuous solution obj:
+-329.32757568359375
+iter 0:
+more seven in after. soldiers.
+this is the folks corporate men you satisfy folks ll satisfy.
+he the hill walked up the.
+tomorrow until. his marching the reunification reunification museums and his currently his marching group. tomorrow tomorrow tomorrow.
+##sia was dot struck struck dot
+the saturn east. saturn early in jupiter rises during the evening evening, while rises jupiter during jupiter in the,.
+only never has never man has has kissed kissed mary never.
+. unidentified struck unidentified struck during hours. the victim apparently during
+-290.00360107421875
+iter 1:
+more soldiers in after. seven.
+this is the corporate corporate men you corporate folks ll satisfy.
+he walked hill up the hill.
+tomorrow tomorrow. his marching the magnificent museums museums. his shooting his marching group group group tomorrow tomorrow.
+was wassia struck struck dot
+the saturn occurred in saturn early in early east during the evening evening rises while rises longer during jupiter in the east.
+mary never has never man has has kissed kissed. never has
+. unidentified struck unidentified struck during hours. the victim apparently during
+-279.8728942871094
+iter 2:
+more soldiers in in after seven.
+this is the corporate men this you corporate folks ll satisfy.
+he walked up the the hill.
+tomorrow tomorrow. his shooting the magnificent museums museums. his shooting his magnificenturbed museums museums tomorrow tomorrow.
+dot wassia struck struck dot
+the saturn found in saturn can found during early in the evening,, while rises longer during jupiter in the east.
+mary never has never man has kissed kissed kissed. never has
+. unidentified struck unidentified struck during hours. the victim apparently morning
+-270.5522766113281
+iter 3:
+more soldiers in more after seven.
+this is the solve men this you corporate folks ll satisfy.
+he walked up the the hill.
+tomorrow tomorrow. his shooting the magnificent magnificent museums. his shooting the magnificenturbed museums museums tomorrow tomorrow.
+dot was was struck strucksia
+the saturn found in saturn can found during early during the evening,, while rises rises in jupiter in the east.
+mary never has never has never man kissed kissed. only never
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-268.1768493652344
+iter 4:
+more soldiers in more after seven.
+this is the solve men this the corporate folks ll satisfy.
+he walked up the the hill.
+tomorrow tomorrow. his shooting the magnificent magnificent museums. his shooting the magnificenturbed museums museums tomorrow tomorrow.
+dot was was struck strucksia
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. only never
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-266.88330078125
+Iter 1 continuous solution:
+. soldiers in more came seven,
+this is the solve men this the corporate folks ll satisfy.
+he walked up the the hill.
+ll this it is problem the at corporate headquarters you satisfy the up solve headquarters folks sooner that.
+victim was the unidentified struck.
+, saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+Iter 1 continuous solution obj:
+-211.90809631347656
+iter 0:
+. soldiers in, came seven in
+is the is. the you corporate men men is folks.
+he walked up the the hill.
+and so this is why problem at corporate headquarters. you satisfy the folks and solve it solve it.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-206.79759216308594
+iter 1:
+. soldiers in more came seven.
+is solve this. the you corporate men men is folks.
+he walked up the the hill.
+and so it is this problem at corporate headquarters that you satisfy the folks and satisfy you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-204.16116333007812
+iter 2:
+more soldiers in. came seven.
+you solve this. the the corporate is men is folks.
+he walked up the the hill.
+and it it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-203.502197265625
+iter 3:
+more soldiers in. came seven.
+you satisfy this. the the corporate solve is the folks.
+he walked up the the hill.
+and it it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-203.33274841308594
+iter 4:
+more soldiers in. came seven.
+you satisfy this. the the corporate solve is the folks.
+he walked up the the hill.
+and it it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never never has never man kissed man. taller than
+unidentified unidentified struck. struck during hours. the victim apparently struck
+-203.33274841308594
+Iter 2 continuous solution:
+more soldiers in, came seven.
+you satisfy this. the corporate solve is the folks.
+he walked up the the hill.
+ll'it is this problem at corporate headquarters that you satisfy the folks the folks you solve sooner.
+victim was the unidentified struck.
+, saturn be in saturn can found during early during the evening north, while jupiter rises in morning in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified struck. was during hours. the victim apparently struck
+Iter 2 continuous solution obj:
+-184.040771484375
+iter 0:
+more soldiers in, came seven.
+you satisfy this. you solve. solve satisfy solve this.
+he walked up the the hill.
+it is it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+, saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified victim. struck during hours. was victim apparently struck
+-178.16893005371094
+iter 1:
+more soldiers in, came seven.
+you satisfy this. you solve. solve solve this this.
+he walked up the the hill.
+it is it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified victim. struck during hours. was victim apparently struck
+-177.95396423339844
+iter 2:
+more soldiers in, came seven.
+you satisfy this. you solve. solve solve this this.
+he walked up the the hill.
+it is it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified victim. struck during hours. was victim apparently struck
+-177.95396423339844
+iter 3:
+more soldiers in, came seven.
+you satisfy this. you solve. solve solve this this.
+he walked up the the hill.
+it is it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified victim. struck during hours. was victim apparently struck
+-177.95396423339844
+iter 4:
+more soldiers in, came seven.
+you satisfy this. you solve. solve solve this this.
+he walked up the the hill.
+it is it is this problem at corporate headquarters that you satisfy the folks and folks you solve sooner.
+victim was the unidentified struck.
+the saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who has never a kissed man. taller than
+unidentified unidentified victim. struck during hours. was victim apparently struck
+-177.95396423339844
+Iter 3 continuous solution:
+more soldiers in, came seven.
+jupiter can early while evening rises, saturn found in east.
+he walked up the the hill.
+ll is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+, saturn found in saturn can found during early during the evening,, while jupiter rises in evening in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified morning. the during hours the was victim apparently struck
+Iter 3 continuous solution obj:
+-213.5402374267578
+iter 0:
+seven soldiers in, came seven.
+saturn is early. evening rises, jupiter is the east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the north saturn saturn can north longer, longer in early saturn,, while jupiter rises during morning in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified unidentified. apparently during hours. the victim apparently struck
+-195.31063842773438
+iter 1:
+seven soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the saturn in the can, found longer, in the saturn found, while jupiter rises early in north the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified unidentified. struck during hours. the victim apparently struck
+-192.2035369873047
+iter 2:
+seven soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the saturn in the found, longer longer, in the saturn found, while jupiter rises jupiter in north the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified unidentified. struck during hours. the victim apparently struck
+-192.20213317871094
+iter 3:
+seven soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the saturn in the found, while longer, in the saturn found, while jupiter rises longer in north the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified unidentified. struck during hours. the victim apparently struck
+-192.19923400878906
+iter 4:
+seven soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the jupiter in the the found in longer, in the saturn found, while jupiter rises longer in north the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified unidentified. struck during hours. the victim apparently struck
+-192.18869018554688
+Iter 4 continuous solution:
+more soldiers in, came seven.
+jupiter can early the evening, while saturn found in east.
+he walked up the the hill.
+' is it the this problem up corporate headquarters that you satisfy the folks ll folks you solve sooner.
+victim was the unidentified struck.
+, jupiter in the the found in longer, of the saturn north, while jupiter rises early in in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified morning. was during hours. the victim apparently struck
+Iter 4 continuous solution obj:
+-187.68307495117188
+iter 0:
+more soldiers in, came seven.
+jupiter can early the evening, while saturn rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the the, saturn, saturn rises saturn,, in the north, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified victim during. was morning hours. the victim apparently struck
+-172.261962890625
+iter 1:
+more soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the jupiter of saturn., saturn saturn, north, saturn jupiter, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified.. was during hours. the victim apparently struck
+-171.77597045898438
+iter 2:
+more soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the the of saturn, saturn be saturn early, during the morning, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified victim. was during hours.. victim apparently struck
+-171.04376220703125
+iter 3:
+more soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the the of saturn, saturn be saturn,, during the morning, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified victim. was during hours.. victim apparently struck
+-170.82545471191406
+iter 4:
+more soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the the of saturn, saturn be saturn,, during the morning, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified victim. was during hours.. victim apparently struck
+-170.82545471191406
+Discrete solution is better
+Discrete solution:more soldiers in, came seven.
+saturn can early the evening, while jupiter rises in east.
+he walked up the the hill.
+it is it the this problem at corporate headquarters that you satisfy the folks easily folks you solve sooner.
+victim was the unidentified struck.
+the the of saturn, saturn be saturn,, during the morning, while jupiter rises. saturn in the east.
+mary has never who is never a kissed man. taller than
+unidentified unidentified victim. was during hours.. victim apparently struck
+Runtime: 43400.35 seconds
+-------------------------
+Batch 3:
+Current Reference:
+willy is taller than that bill is is generally believed.
+jose is eating cabbage, and holly is too.
+john demanded that she stop phoning him.
+i have six too many marbles.
+mark's single mindedness terrified me.
+her indiscretions were made light of.
+each of the boys fought with the other boys.
+herman mixed the eggs with the cream.
+Iter 0 continuous solution:
+willy than is generally believed willy taller bill is.
+tells. is marble that intended terrified the more.
+##wil book loves girls united cold hercules gloucester
+herman frog with is mixed the eggs.
+boys fought the fought with other each. declan
+wood charitiesped. sevenrgeon hassiff
+and holly is jose according cycle eating too cabbageiri
+john him that sheoning demanded stop.
+Iter 0 continuous solution obj:
+-329.3901062011719
+iter 0:
+bill than believed is generally believed willy taller willy is.
+that intended. that that intended terrified the marble.
+gloucester girls gloucester girls hercules girls hercules girls gloucester
+herman frog with herman mixed the eggs.
+boys fought the other with other boys each declan
+charities charitiesiff. wood wood sevens has.
+cycle holly is eating jose too and eating cabbageiri
+john demanded that she stop demandedoning.
+-288.4565734863281
+iter 1:
+bill than believed is generally believed is taller willy is.
+that intended. that that intended terrified the marble.
+gloucester girls gloucester loves herculeswil gloucester girls gloucester
+herman herman with herman mixed the eggs.
+boys fought the boys with other boys each declan
+charities charities... sevenrgeonrgeon has.
+and holly is eating jose too and eating cabbage and
+john demanded that she stop sheoning.
+-278.9326171875
+iter 2:
+bill than believed is generally believed is taller willy is.
+that intended. that that intended terrified more marble.
+hercules girls gloucester loves herculeswil gloucester girls gloucester
+herman herman with herman mixed the eggs.
+boys fought the boys with other boys each declan
+charities charities... sevenrgeonrgeon has.
+and holly is eating jose too and eating cabbage and
+john demanded that she stop sheoning.
+-278.6453552246094
+iter 3:
+bill than believed is generally believed is taller willy is.
+that intended. that that intended terrified more marble.
+hercules girls gloucester loves herculeswil gloucester girls gloucester
+herman herman with herman mixed the eggs.
+boys fought the boys with other boys each declan
+charities charities... sevenrgeonrgeon has.
+and holly is eating jose too and eating cabbage and
+john demanded that she stop sheoning.
+-278.6453552246094
+iter 4:
+bill than believed is generally believed is taller willy is.
+that intended. that that intended terrified more marble.
+hercules girls gloucester loves herculeswil gloucester girls gloucester
+herman herman with herman mixed the eggs.
+boys fought the boys with other boys each declan
+charities charities... sevenrgeonrgeon has.
+and holly is eating jose too and eating cabbage and
+john demanded that she stop sheoning.
+-278.6453552246094
+Iter 1 continuous solution:
+bill than that is generally believed is taller willy is.
+madecre. were hertions terrified of light.
+marks marble have six too many i.
+herman cream with the mixed the eggs.
+boys fought the boys with other boys each.
+charities charities... sevenrgeonrgeon has.
+and holly is eating jose too, is cabbage.
+john demanded that she stop phoning.
+Iter 1 continuous solution obj:
+-243.99856567382812
+iter 0:
+willy than bill is generally believed is taller that is.
+moretions intended. hertions terrified made light.
+mark loves girls. too too many girls.
+herman mixed cream with mixed the eggs.
+boys fought the other with other boys each.
+charities charities... seven sevenrgeon has.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-223.969970703125
+iter 1:
+willy than bill is generally believed is taller bill is.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+charities charities. sevens sevenrgeonrgeon has.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-219.09469604492188
+iter 2:
+willy than bill is generally believed is taller willy is.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+charities charities sevenrgeon charities seven sevenrgeon has.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-218.69546508789062
+iter 3:
+bill than bill is generally believed is taller willy is.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+charities charities sevenrgeons sevenpedrgeon has.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-218.2538299560547
+iter 4:
+bill than bill is generally believed is taller willy is.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+charities charities sevenrgeons sevenpedrgeon has.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-218.2538299560547
+Iter 2 continuous solution:
+bill than that is generally believed is taller willy is.
+that were of. hertions terrified made light.
+i haves, six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought the of with other boys each.
+[unused487] charities mindedrgeon meness terrified mark is.
+and holly is eating jose too, is cabbage.
+john demanded that she stop phoning.
+Iter 2 continuous solution obj:
+-227.91030883789062
+iter 0:
+bill bill that is generally than is taller willy is.
+made were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+mark charities [unused487]rgeon mindedness terrified mark me.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-201.27529907226562
+iter 1:
+bill bill that is generally believed than taller willy is.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+marks [unused487]rgeon mindedness terrified mark me.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-200.03408813476562
+iter 2:
+bill bill that is generally is than taller willy believed.
+that were intended. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+marks [unused487]rgeon mindedness terrified mark me.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-199.78240966796875
+iter 3:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+marks [unused487]rgeon mindedness terrified mark me.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-199.73838806152344
+iter 4:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought each fought with other boys each.
+marks [unused487]rgeon mindedness terrified mark me.
+and holly is eating jose too and eating cabbage.
+john demanded that she stop phoning.
+-199.73838806152344
+Iter 3 continuous solution:
+bill willy that is generally is than taller is believed.
+believed were of that willytions is made light.
+i haves. six too many marble.
+herman mixed cream with mixed the eggs.
+boys fought the of with other boys each.
+willy is single single mindedness terrified mark me.
+and holly is eating jose too, is cabbage.
+john demanded that she stop phoning.
+Iter 3 continuous solution obj:
+-220.20994567871094
+iter 0:
+bill willy that is generally that than taller is believed.
+that made of. hertions were made light.
+i have six. six too many marble.
+mixed. cream with mixed the eggs.
+boys fought each fought with other boys each.
+marks single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-192.7898712158203
+iter 1:
+bill willy that is generally that than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream mixed mixed. mixed the eggs.
+boys fought each fought with other boys each.
+marks single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-190.81655883789062
+iter 2:
+bill willy that is generally that than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed. mixed the eggs.
+boys fought each fought with other boys each.
+marks single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-190.3545684814453
+iter 3:
+bill willy that is generally that than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed. mixed the eggs.
+boys fought each fought with other boys each.
+marks single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-190.3545684814453
+iter 4:
+bill willy that is generally that than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed. mixed the eggs.
+boys fought each fought with other boys each.
+marks single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-190.3545684814453
+Iter 4 continuous solution:
+bill willy that is generally is than taller is believed.
+##cre were of. hertions is made light.
+i haves the six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought the of with other boys each.
+' s single single mindedness terrified mark me.
+and holly is eating jose too, is cabbage.
+john demanded that she stop phoning.
+Iter 4 continuous solution obj:
+-185.05177307128906
+iter 0:
+bill willy that is generally is than taller is believed.
+##tions were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single single mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-172.0111846923828
+iter 1:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single [unused487] mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-171.7118682861328
+iter 2:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single [unused487] mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-171.7118682861328
+iter 3:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single [unused487] mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-171.7118682861328
+iter 4:
+bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single [unused487] mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+-171.7118682861328
+Discrete solution is better
+Discrete solution:bill willy that is generally is than taller is believed.
+that were made. hertions were made light.
+i have six. six too many marble.
+cream herman mixed with mixed the eggs.
+boys fought each boys with other boys each.
+mark'single [unused487] mindedness terrified mark me.
+and holly is eating jose too, eating cabbage.
+john demanded that she stop phoning.
+Runtime: 25558.96 seconds
+-------------------------
+Batch 4:
+Current Reference:
+no john smiths attended the meeting.
+i did not, as bill had thought, go to the store.
+who will john ask for information about summer courses?
+ron wanted to wear a tuxedo to the party, but caspar couldn't decide whether to.
+bill gave sue the book.
+the bread was chewed by martha.
+read fred's story, i also want to.
+some of the water from melted snow also goes into the ground for plants.
+Iter 0 continuous solution:
+some from snow also for plants plants.
+north did wear went. because training ron butpar wanted : party to
+burned dustpled.. the in. sally
+bread givenjord before after april also kong arches doubt appear between potatoes mix increasingly showed remark river in kylieac de
+gave martha bread the chewed.
+read connections. doem about,
+besidelassified summer water will the john who will asked?
+the no john no meeting. bill gave smiths john attended book sue the
+Iter 0 continuous solution obj:
+-296.0018310546875
+iter 0:
+some from snow also plants snow plants.
+north : wear went. ron but. but did wantedpar did to
+dust... in the dust burned sally.
+##jord kong bread increasingly after increasinglyjord increasinglyac appear kong given potatoes de increasingly showed appearjord kong also also given
+gave martha bread the bread.
+read do. connections.em,
+will summerlassified? who will john who will beside?
+no. smith no meeting. bill gave smithss attended book the john
+-282.2628479003906
+iter 1:
+some from snow also plants snow plants.
+. : went wear. north but.par ron wantedpar went to
+the... inpled dust burned sally.
+##jord kongac increasingly remark increasingly after alsoac appear kong given bread given given showed kyliejord kong also also given
+gave martha martha the bread.
+read about do. doem,
+wholassifiedlassified? who will john will water the?
+no smith attended the meeting. bill gave smithss attended book the john
+-275.9067077636719
+iter 2:
+some from snow also also plants plants.
+ron : did wear.. but ron training ron wantedpar went to
+the... dustpled dust burned sally.
+##jord appearac increasingly remark increasingly after also kong alsoac given bread given givenac kyliejord kong also also given
+gave martha martha the bread.
+read about do. doem,
+wholassifiedlassified? who will john will water the?
+no john attended the meeting. bill gave smithss attended book the smith
+-274.66278076171875
+iter 3:
+some from snow also also plants plants.
+north : did wear.. but ron training ron wantedpar went to
+the..pled dust dust burned the dust.
+##jord appearac increasingly remark between after also kong alsoac given bread bread given given kyliejord kong also also given
+gave martha martha the bread.
+read about do. doem,
+wholassifiedlassified? who will john summer water the?
+no john attended the meeting. bill gave smithss attended book. smith
+-273.8721008300781
+iter 4:
+some from snow also also plants plants.
+. : wear wear.. but ron training ron wentpar north to
+the the inpled burned dust burned the dust.
+##jord appearac increasingly remark kong after also kong alsoac given bread bread given given kyliejord kong also also given
+gave martha martha the bread.
+read about do. doem,
+wholassifiedlassified? who will john summer water the?
+no john attended the meeting. bill gave smiths the attended book. smith
+-272.7255554199219
+Iter 1 continuous solution:
+some from snow also for plants water.
+. : wear wear.. but ron training ron wentpar north to
+some the water melted plants snow goes the ground.
+##jord goes cas chewed decide kong after also ron wanted goes into bread bread for into kyliejord kong also also chewed
+gave sue bill the book.
+read story fred also want s.
+who chewed information about who will john summer ask for?
+no john attended the meeting. bill gave smiths the attended book. smith
+Iter 1 continuous solution obj:
+-236.59866333007812
+iter 0:
+some from snow also plants for water.
+party wanted wear wear. went but ron training ron wanted to north to
+some the water melted melted snow goes the ground.
+in river cas april showed kong increasingly decide cas wanted kong given bread bread for also for given kong remark alsoac
+gave sue bill the book.
+, read fred also want about.
+who about information? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-228.32687377929688
+iter 1:
+some from snow also plants for water.
+##par did wear wear. went but party training ron wanted to did to
+some the water melted melted snow goes the ground.
+##jord wanted into april appear kong increasingly showed ron wanted decide after bread bread for cas for given kong also alsoac
+gave sue bill the book.
+, read fred also want about.
+who about will? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-227.05877685546875
+iter 2:
+some from snow also plants for water.
+##par did wear wear. went but party training ron wanted to did to
+some the water melted melted snow goes the ground.
+##jord wanted in april appear kong increasingly showed ron wanted chewed into river bread for cas for cas kong also alsoac
+gave sue bill the book.
+, read fred also want about.
+who about will? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-227.0283966064453
+iter 3:
+some from snow also water for plants.
+wanted. did wear but. but party training ron wentpar north to
+some the water melted melted snow goes the ground.
+increasingly kong remark showed for ron after also ron wanted cas kylie into bread for chewed potatoesjord kong also also given
+gave sue bill the book.
+read about fred also want s,
+who about will? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-226.8791046142578
+iter 4:
+some from snow also water for plants.
+wanted. wear wear to but but party training ron wantedpar north to
+some the water melted melted snow goes the ground.
+increasingly given remark showed for ron after also ron wanted cas kylie into bread for chewed potatoesjord kong also also given
+gave sue bill the book.
+read about fred also want s,
+who about will? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-226.8194122314453
+Iter 2 continuous solution:
+some from snow also water for plants.
+wanted did to wear cas. but party decide ron whetherpar. to
+some the water melted plants snow goes the ground.
+increasingly given remark showed for ron by also ron wanted goes into into bread for chewed plantsjord kong also also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses for who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. sue
+Iter 2 continuous solution obj:
+-199.02926635742188
+iter 0:
+some from snow also water for plants.
+wanted to wear wear caspar but ron decide whether whetherpar. to
+some the water melted plants snow goes the ground.
+##jord goes plants chewed for kylie after also kong wanted goes into river bread for chewed plantsjord kong also also cas
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-192.49998474121094
+iter 1:
+some from snow also water for plants.
+wanted to wear wear. party but caspar ron wanted to whether to
+some the water melted plants snow goes the ground.
+##jord goes also goes for river after arches potatoes wanted arches into into bread for chewed plantsjord kong also also cas
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-191.79579162597656
+iter 2:
+some from snow also water for plants.
+wanted to wear wear didpar but cas decide ron wanted whether. to
+some the water melted plants snow goes the ground.
+##jord goes after chewed for kylie after also kong wanted goes into river bread for plants plantsjord kong also also cas
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-191.59097290039062
+iter 3:
+some from snow also water for plants.
+wanted to wear wear to party but caspar ron wanted whether. to
+some the water melted plants snow goes the ground.
+##jord goes after chewed for kylie after also kong wanted goes into river bread for plants plantsjord kong also also cas
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-191.54074096679688
+iter 4:
+some from snow also water for plants.
+wanted to wear wear to party but caspar ron wanted to whether to
+some the water melted plants snow goes the ground.
+bread goes arches after for bread before also goes increasingly goes into into bread for chewed plantsjord kong also also cas
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-191.34303283691406
+Iter 3 continuous solution:
+some from snow also water for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+bread go was by for martha. also ground increasingly goes into the bread for chewed plantsjord bill not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses for who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+Iter 3 continuous solution obj:
+-177.43605041503906
+iter 0:
+some from snow also water for plants.
+wanted went to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+bread also was chewed by martha also also ground not goes into the bread for chewed plants. kong not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-175.03538513183594
+iter 1:
+some from snow also water for plants.
+wanted went to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the bread was chewed by martha also also ground not goes into the bread for chewed plants. kong not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-174.95298767089844
+iter 2:
+some from snow also water for plants.
+wanted went to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the bread was chewed by martha also also ground not goes into the bread for chewed plants. kong not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-174.95298767089844
+iter 3:
+some from snow also water for plants.
+wanted went to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the bread was chewed by martha also also ground not goes into the bread for chewed plants. kong not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-174.95298767089844
+iter 4:
+some from snow also water for plants.
+wanted went to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the bread was chewed by martha also also ground not goes into the bread for chewed plants. kong not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-174.95298767089844
+Iter 4 continuous solution:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground had goes into the bread for melted plants. bill not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses for who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+Iter 4 continuous solution obj:
+-169.90782165527344
+iter 0:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-168.0276336669922
+iter 1:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-168.0276336669922
+iter 2:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-168.0276336669922
+iter 3:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-168.0276336669922
+iter 4:
+some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+-168.0276336669922
+Discrete solution is better
+Discrete solution:some from snow also goes for plants.
+wanted did to wear to party but caspar ron couldn t whether to
+some the water melted plants snow goes the ground.
+the water was chewed by martha. also ground between goes into the bread for melted plants.jord not also chewed
+gave sue bill the book.
+read story fred also want s.
+who about courses? who will john summer ask information?
+no john attended the meeting. bill gave smiths the attended book. smith
+Runtime: 41448.82 seconds
+-------------------------
+Batch 5:
+Current Reference:
+bob is very serious about mary, but less so than paul.
+ayala sent the diamond necklace back.
+jessica sprayed paint under the table.
+john is refused.
+this information could have been released by gorbachev, but he chose not to.
+kevin ate spaghetti with a spoon and geordie did so too.
+john is the kind of fool that i told you about.
+i doubt if you can help me in understanding this.
+Iter 0 continuous solution:
+absolute lexi amazing contra. the or. sub despite vampire run answers
+you told necklace john fool the kind.
+bob is about hostile serious mary.
+necklaceyala sent.
+. - overnight. meyrick everyone for felt rights do miniyala sent meet kingian offspring
+##chev nova chose effectrba attack couldl but no, information wickets life
+jessica paint sprayed very under serious about. but like jessica less
+figures country includes at hungerrkin takeago andor on
+Iter 0 continuous solution obj:
+-282.6598205566406
+iter 0:
+.. absolute answers or or or contra the despite the run.
+you told the necklace. the necklace.
+bob is about serious about mary.
+necklaceyala sent.
+overnight - do for meyrick for meet do do do rightsyala sent mini felt king.
+##chevchev choserbachev no attack, but information could effect information,
+paint sprayed sprayed very less serious paint. but less jessica but
+##ago country includes takedor hunger andor takeago on
+-258.1313171386719
+iter 1:
+. absolute amazing answers or or or or the despite or despite.
+you told the fool. the necklace.
+bob is serious serious about mary.
+necklaceyala sent.
+meet meet meyrick for meet do meet do do do rightsyala sent mini mini king.
+##rbachev chose novachev no information, but no could effect information,
+jessica sprayed sprayed very less serious paint. but less. but
+##dor country includes andor hunger anago takeago on
+-250.64306640625
+iter 2:
+the absolute amazing absolute or sub or or or despite or sub.
+you told the fool. the necklace.
+bob is serious serious about mary.
+necklaceyala sent.
+meet meet meyrick for meetian meet do do do rightsyala sent mini for everyone.
+##rbachev chose novachev no information, but no could effect information,
+jessica sprayed sprayed very less serious paint under but less. but
+##dor country includes andor hunger andordor figures on
+-249.9011993408203
+iter 3:
+the absolute vampire absolute lexi or or or or sub or sub.
+you told the fool. the necklace.
+bob is serious serious about mary.
+necklaceyala sent.
+king sent meyrick overnight meet for meet do - rights rightsyala sent mini for everyone.
+##rbachev chose novachev no information, but no could effect information,
+jessica sprayed sprayed very less serious paint under but less. but
+##dor country includes andor hunger andordor figures on
+-249.03103637695312
+iter 4:
+the absolute vampire absolute despite or or lexi or sub or sub.
+you told the fool. the necklace.
+bob is serious serious about mary.
+necklaceyala sent.
+king sent meyrick overnight meet for meet do - rights rightsyala sent mini for everyone.
+##rbachev chose novachev no information, but no could effect information,
+jessica sprayed sprayed very less serious paint under but less. but
+##dor country includes andor hunger andordor figures on
+-249.00064086914062
+Iter 1 continuous solution:
+you doubt can absolute help in if understanding i sub or this.
+you told i john that the kind.
+bob is very serious about mary.
+necklaceyala sent.
+a sent meyrick necklace necklace back diamond do - rights rightsyala sent mini for the.
+##rbachev chose gochev this released, but to could by information.
+jessica paint sprayed very less serious paint under but less. but
+##dor spaghetti includes andor hunger andordor figures on
+Iter 1 continuous solution obj:
+-218.8970489501953
+iter 0:
+you you can absolute help in understanding understanding this or doubt this.
+you told that fool john that necklace.
+bob is very serious about mary.
+necklaceyala sent.
+king sent the diamond necklace back. everyone felt overnight ayala sent mini the meet.
+##rbachev chose to chose no released, but no could released information.
+jessica paint sprayed very less serious paint under but less. but
+take country includes takedor hunger anagorkin figures on
+-202.89700317382812
+iter 1:
+you doubt i can help in understanding this or this understanding this.
+you told that john that that necklace.
+bob is very serious about mary.
+necklaceyala sent.
+##yala sent meyrick mini for a necklace meet necklace diamond ayala sent mini rights back.
+##rbachev released gochev this information, but chose to no effect.
+jessica paint sprayed very less serious paint under but less. but
+##rkin country includes takedor hunger anagorkin figures on
+-201.97987365722656
+iter 2:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that necklace.
+bob is very serious about mary.
+necklaceyala sent.
+meyrick sent the necklace necklace back. everyone - rights ayala sent the mini diamond.
+##rbachev chose tochev this information, but no could released information.
+jessica paint sprayed very less serious paint under but less. but
+##rkin includes an take on anagoagodor spaghetti on
+-200.35311889648438
+iter 3:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that necklace.
+bob is very serious about mary.
+##yalayala sent.
+##yala sent the necklace necklace back. everyone - rights ayala sent the mini diamond.
+##rbachev chose to released this information, but no could released information.
+jessica paint sprayed very less serious paint under but less. but
+hunger includes an take on takeagoagodorrkin at
+-198.65664672851562
+iter 4:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+necklaceyala sent.
+##yala sent the necklace necklace back. everyone - rights ayala sent the mini diamond.
+##rbachev chose to released this information, but no could released information.
+jessica paint sprayed very less serious paint under but less. but
+spaghetti includes an take on on ondordorrkin at
+-198.48699951171875
+Iter 2 continuous solution:
+you could to i help inchev understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so - rights ayala sent the mini diamond.
+##rbachev chose to released this information, but no could released information.
+jessica paint sprayed very the serious table under but less. but
+spaghetti eating he chose information to by gorbachev at
+Iter 2 continuous solution obj:
+-183.8927764892578
+iter 0:
+you can if i help in understanding understanding this despite understanding this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back so do - rights ayala sent the mini diamond.
+could nochev by this effect gorbachev butchev chose information.
+jessica paint sprayed very less serious paint under but less. table
+on information he chose on to by gorbachev to
+-172.24627685546875
+iter 1:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. do -yala ayala sent the mini diamond.
+but no information to this effect gorbachevlchev chose information,
+jessica paint sprayed very less serious paint under but less. but
+go chose he chose to go by gorbachev to
+-170.1318817138672
+iter 2:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. do -yala ayala sent the mini diamond.
+but no information by this effect gorbachevrbachev released information,
+jessica paint sprayed very less serious paint under but less. but
+he chose to chose to go by gorbachev to
+-169.9390106201172
+iter 3:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. do -yala ayala sent the mini diamond.
+but no information to this effect gorbachev chosechev this information,
+jessica paint sprayed very less serious table under but less. but
+he chose to chose to go by gorbachev to
+-169.9132843017578
+iter 4:
+you can if i help in understanding understanding this despite doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. do -yala ayala sent the mini diamond.
+but no chose to by effect gorbachev chosechev this information,
+jessica paint sprayed very less serious paint under but less. table
+he chose to chose to go by gorbachev to
+-169.83670043945312
+Iter 3 continuous solution:
+you could if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. do -yala ayala sent the mini diamond.
+butchev chose to by have couldrbachev releasedchev this information.
+jessica paint sprayed very the serious paint under but less. table
+he could not chose information released by gorbachev.
+Iter 3 continuous solution obj:
+-156.46771240234375
+iter 0:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+butchev chose to by have couldrbachev releasedchev this information.
+jessica paint sprayed very very serious paint under but less. table
+he not not chose not released by gorbachev.
+-154.11532592773438
+iter 1:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+gochev chose to, but gorba no effect could this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-153.82875061035156
+iter 2:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+gochev chose to, but gorba no effect could this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-153.82875061035156
+iter 3:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+gochev chose to, but gorba no effect could this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-153.82875061035156
+iter 4:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john that kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+gochev chose to, but gorba no effect could this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-153.82875061035156
+Iter 4 continuous solution:
+you can so i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. so -yala ayala sent the mini diamond.
+gochev chose to, but haverba not released by this information.
+jessica paint sprayed very the serious paint under but less. table
+he could not chose not released by gorbachev.
+Iter 4 continuous solution obj:
+-146.0303497314453
+iter 0:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+everyone sent the necklace necklace back. do -yala ayala sent the mini diamond.
+gochev chose to, but gorba not not released this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-142.5648651123047
+iter 1:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+mini sent the necklace necklace back. do - rights ayala sent the mini diamond.
+##rbachev chose to, but gorba not not have this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-142.0897674560547
+iter 2:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. back - rights ayala sent the mini diamond.
+##rbachev chose to, but gorba not not have this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-141.61940002441406
+iter 3:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. back - rights ayala sent the mini diamond.
+##rbachev chose to, but gorba not not have this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-141.61940002441406
+iter 4:
+you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. back - rights ayala sent the mini diamond.
+##rbachev chose to, but gorba not not have this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+-141.61940002441406
+Discrete solution is better
+Discrete solution:you can if i help in understanding understanding this but doubt this.
+you told that fool john is kind.
+bob is very serious about mary.
+john is refused.
+##yala sent the necklace necklace back. back - rights ayala sent the mini diamond.
+##rbachev chose to, but gorba not not have this information.
+jessica paint sprayed very very serious paint under but less. table
+he could not chose not released by gorbachev.
+Runtime: 37065.24 seconds
+-------------------------
+Batch 6:
+Current Reference:
+was the child running to the car?
+mary is shorter than five feet.
+she has enough of a problem as it is.
+every student has to come up with three arguments that show that some condition proposed by bill is wrong.
+kim alienates cats and beat his dog.
+john's i stole bike.
+the witch went into the forest by vanishing.
+mary noticed john's excessive appreciation of himself.
+Iter 0 continuous solution:
+is five than feet shorter is mary.
+the? child was nr running child
+noticed john'mary appreciation excessive of john himself.
+river dioxide bce cooperativechi dog challenge total floor community. the chinese hong beating beats alexis andrewep ᵘ
+artillery jennyacion showing dad ং isbn football us
+forest into witch by vanishing went.
+' i stole. stole john i bike s
+has three every student has arguments with that bill.
+Iter 0 continuous solution obj:
+-222.9792938232422
+iter 0:
+feet shorter than five shorter is mary.
+running? was the child running?
+noticed mary'appreciation appreciation excessive of john himself.
+chinese hongchi. cooperative cooperative challenge. dog community. the chinese hong beating beats andrew floorchi ᵘ
+isbn football ং dad dad ং isbn jenny jenny
+forest went witch by vanishing by.
+i i stole. stole john i bike s
+every student student student has arguments with that bill.
+-202.21392822265625
+iter 1:
+mary is five feet shorter than shorter.
+running running? was the child?
+mary'excessive appreciation of himself noticed john himself.
+challenge alexis. andrew beats chinese dog. beating floor dioxidechiepep. ᵘ floor dioxide dioxide.
+showing football dad ং football dad isbn isbn artillery
+into forest witch vanishing by vanishing.
+i s john'stole s bike john.
+every student with arguments has arguments that bill has.
+-199.66676330566406
+iter 2:
+mary is five feet shorter than shorter.
+running running? was the child?
+mary'excessive appreciation of john noticed john himself.
+challenge cooperative. andrew beats alexis dog. beating floor dioxidechiepchi. ᵘ the dioxide dioxide.
+showing football dad ং football dad isbn isbn artillery
+into went witch vanishing by vanishing.
+bike s i'stole bike john bike.
+every student with arguments has arguments that bill has.
+-197.41806030273438
+iter 3:
+mary is five feet shorter than shorter.
+running? was the child child?
+mary'excessive appreciation of john noticed john himself.
+challenge cooperative. andrew beats alexis dog. beating floor dioxide floorepchi. ᵘ the dioxide dioxide.
+showing dad football ং showing dad isbn isbn artillery
+into went witch vanishing by vanishing.
+john s i'stole bike john bike.
+every student with arguments has arguments that bill has.
+-196.8063201904297
+iter 4:
+mary is five feet shorter than shorter.
+running? was the child child?
+mary'excessive appreciation of john noticed john himself.
+challenge cooperative. andrew beats alexis dog. beating floor dioxide floorepchi. ᵘ the dioxide dioxide.
+showing dad football ং showing dad isbn isbn artillery
+into went witch vanishing by vanishing.
+john s i'stole bike john bike.
+every student with arguments has arguments that bill has.
+-196.8063201904297
+Iter 1 continuous solution:
+mary is five feet shorter than shorter.
+running? was the car child to
+mary'excessive appreciation of john noticed john himself.
+challenge cooperative. kim beats alexis dog. beat floor dioxide floor alienchi and ᵘ his dioxide dioxide.
+she dog problem enough as is has a.
+the went witch forest by vanishing.
+john s i'stole bike john bike.
+every student three condition has arguments that bill has.
+Iter 1 continuous solution obj:
+-167.99270629882812
+iter 0:
+mary is five feet shorter than five.
+running? was the car child?
+mary'excessive appreciation of john noticed john himself.
+and community. kim beats andrew dog. beating his dog dog alien alexis and challenge his dog dog.
+she has problem enough as she has has.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student with arguments has arguments that bill has.
+-160.25726318359375
+iter 1:
+mary is five feet shorter than five.
+running? was the car child?
+mary'excessive appreciation of john noticed john himself.
+and community. kim beats community dog. beat his dioxide dog alien andrew and challenge his alien dog.
+she has problem enough as she has has.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student with arguments has arguments that bill has.
+-160.1079864501953
+iter 2:
+mary is five feet shorter than five.
+running? was the car child?
+mary'excessive appreciation of john noticed john himself.
+and community. kim beats chinese dog. beat his dioxide dog dog andrew and challenge his alien dog.
+she has problem enough as she has has.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student with arguments has arguments that bill has.
+-160.02178955078125
+iter 3:
+mary is five feet shorter than five.
+running? was the car child?
+mary'excessive appreciation of john noticed john himself.
+and community. kim beats chinese dog. beat his dioxide dog dog andrew and challenge his alien dog.
+she has problem enough as she has has.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student with arguments has arguments that bill has.
+-160.02178955078125
+iter 4:
+mary is five feet shorter than five.
+running? was the car child?
+mary'excessive appreciation of john noticed john himself.
+and community. kim beats chinese dog. beat his dioxide dog dog andrew and challenge his alien dog.
+she has problem enough as she has has.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student with arguments has arguments that bill has.
+-160.02178955078125
+Iter 2 continuous solution:
+mary is five feet shorter than five.
+running? was the car child to
+mary'excessive appreciation of john noticed john himself.
+and community. kimatesates cats and beat his dioxide dog dog andrew and challenge his alien dog.
+she has problem enough as is has a.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three condition has arguments that bill wrong.
+Iter 2 continuous solution obj:
+-143.0052490234375
+iter 0:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+cooperative cooperative. andrew alienates cats and beat his beats his dog kim and challenge his chinese dog.
+she has problem enough as she has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-138.6136932373047
+iter 1:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim cooperativeates andrew alienates cats. beat his dog dog kimchi and challenge his his dog.
+she has problem enough as she has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill wrong.
+-138.31683349609375
+iter 2:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates andrew alienates cats and beat his and dog kimchi. dog beats his dog.
+she has problem enough as she has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill wrong.
+-138.16616821289062
+iter 3:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates andrew alienates cats and beat his dog dogepchi. andrew beats his dog.
+she has problem enough as she has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-138.04331970214844
+iter 4:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates andrew alienates cats and beat his dog dogepchi. andrew beats his dog.
+she has problem enough as she has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-138.04331970214844
+Iter 3 continuous solution:
+mary is five feet shorter than five.
+running? was the car child to
+mary'excessive appreciation of john noticed john himself.
+mary alien is kim alienates cats and beat his dog dogepchi. five than shorter feet.
+she of problem enough as it has is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three condition has arguments that bill wrong.
+Iter 3 continuous solution obj:
+-125.66483306884766
+iter 0:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+ᵘ totalates kim alienates cats and beat his dog dog dog mary. beating his shorter dog.
+she has problem enough as it she is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-122.29155731201172
+iter 1:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+alexis alienates kim alienates cats and beat his beating dog dogep. beating his total dog.
+she has problem enough as it she is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-121.76997375488281
+iter 2:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+mary alienates kim alienates cats and beat his beating dog andep. beating his total dog.
+she has problem enough as it she is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-121.72962951660156
+iter 3:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+mary alienates kim alienates cats and beat his beating dog andep. beating his total dog.
+she has problem enough as it she is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-121.72962951660156
+iter 4:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+mary alienates kim alienates cats and beat his beating dog andep. beating his total dog.
+she has problem enough as it she is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three arguments has arguments that bill has.
+-121.72962951660156
+Iter 4 continuous solution:
+mary is five feet shorter than five.
+running? was the car child to
+mary'excessive appreciation of john noticed john himself.
+mary alienates kim alienates cats and beat his some dog and up. beating his total dog.
+she has problem enough as it of is.
+the went witch forest by vanishing.
+john s i'stole bike i bike.
+every student three condition has arguments that bill wrong.
+Iter 4 continuous solution obj:
+-111.1495590209961
+iter 0:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates andrewchiates cats and beat his cooperative dog dog andrew. beating up cooperative dog some
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+-108.26605224609375
+iter 1:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates kim alienates cats and beat his cooperative dog dog andrew. some his dog cats.
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+-107.69576263427734
+iter 2:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates kim alienates cats and beat his and dog dog andrew. some his dog dog.
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+-107.69093322753906
+iter 3:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates kim alienates cats and beat his and dog dog andrew. some his dog dog.
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+-107.69093322753906
+iter 4:
+mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates kim alienates cats and beat his and dog dog andrew. some his dog dog.
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+-107.69093322753906
+Discrete solution is better
+Discrete solution:mary is five feet shorter than five.
+running? was the car child running
+mary'excessive appreciation of john noticed john himself.
+kim alienates kim alienates cats and beat his and dog dog andrew. some his dog dog.
+she has problem enough as it it is.
+the went witch forest by vanishing.
+john s i'stole bike'bike.
+every student three condition has arguments that bill has.
+Runtime: 31463.42 seconds
+-------------------------
+Batch 7:
+Current Reference:
+john tagged lewis with a regulation baseball on tuesday.
+we all thought him to be unhappy
+book is available in most countries.
+i could have little known that more trouble was just around the corner.
+john gave the books to mary at christmas, and the records to sue for her birthday.
+he said that himself was hungry.
+after reading the pamphlet, judy threw them into the garbage can.
+collapsed harry.
+Iter 0 continuous solution:
+john baseball baseball with tagged chapters per lewis tuesday.
+we be him unhappy to all thought
+collapsed harry garbage judy threw them.
+bow! -. andrew, leah find longer methane the paying murdered.
+gave john lounge to mary to the christmas birthday the baseball sue at sue. mary and records
+mont proximity legsb.mbledidae
+he like that shortly professor hungry himself was. was book. said
+. harry.
+Iter 0 continuous solution obj:
+-302.4754638671875
+iter 0:
+john per tagged with baseball with tagged lewis tuesday.
+we thought him him all unhappy to
+collapsed harry them collapsed threw judy.
+, murdered andrew -! longer, paying - longer - methane find.
+and baseball john christmas. and the records the. sue at birthday lounge gave to mary mary
+mont montmbledmbled. legsb
+. book was shortly. he hungry was professor he said himself was
+harry. harry
+-265.18377685546875
+iter 1:
+john john tagged lewis tagged tuesday with tuesday baseball.
+we thought him to be unhappy him
+.. garbage threw collapsed harry.
+, paying andrew the. longer - leah - the the murdered find.
+and john lounge and gave the sue records sue christmas baseball at the and mary baseball to the
+.mbledidae proximitymbled legsb
+said he book himself said hungry was hungry. he that himself was
+. harry.
+-258.47943115234375
+iter 2:
+john john tagged lewis tagged tuesday with tuesday baseball.
+we thought him to be unhappy him
+judy. garbage threw collapsed harry.
+methane paying andrew the the, paying leah bow murdered the murdered longer.
+. john birthday records gave the records and christmas christmas sue at the and and baseball to john
+.mbledidae proximitymbled legsb
+said he book himself said hungry himself hungry. he that himself was
+. harry.
+-257.2302551269531
+iter 3:
+john john tagged lewis tagged tuesday with tuesday baseball.
+we thought him to be unhappy him
+judy. garbage threw collapsed harry.
+methane paying andrew the find, paying leah bow murdered the find longer.
+mary john birthday records gave the records and christmas and sue at the sue at lounge to john
+.mbledidae proximitymbled legsb
+said he book himself said hungry himself hungry. he that himself was
+. harry.
+-256.7598571777344
+iter 4:
+john john tagged lewis tagged tuesday with tuesday baseball.
+we thought him to be unhappy him
+judy. garbage threw collapsed harry.
+methane paying andrew the find, paying leah - murdered the find longer.
+mary john baseball records gave the records and christmas and sue at the sue at lounge to john
+.mbledidae proximitymbled legsb
+said he book himself was hungry himself hungry. he that himself was
+. harry.
+-256.55963134765625
+Iter 1 continuous solution:
+john a regulation lewis tagged on with tuesday baseball.
+we thought him to be unhappy him
+judy, garbage threw threw them.
+her mary john to book, sue mary for gave the books birthday.
+mary john baseball records gave the records and christmas and sue at to sue for birthday the books
+. collapsed harry collapsedmbled harry.
+said he that himself was hungry himself was he himself.
+. book,
+Iter 1 continuous solution obj:
+-235.29298400878906
+iter 0:
+john tagged a lewis tagged tuesday on tuesday baseball.
+we thought him to be unhappy him
+judy, garbage threw threw them.
+paying gave john the find, gave mary for her the books birthday.
+john john gave records gave the records at christmas and and books to sue and at birthday.
+. collapsed harry.mbled harry.
+said said that himself was hungry himself was professor professor. hungry like
+, book,
+-220.0082244873047
+iter 1:
+john tagged a lewis tagged tuesday on tuesday baseball.
+we thought him to be unhappy him
+judy, garbage judy threw them.
+her paying john the paying, gave mary for her the books birthday.
+mary john gave mary gave the records at christmas and the books to sue and at sue.
+. collapsed harry.. harry.
+said said that himself was hungry himself was professor professor. he was
+, book,
+-217.60191345214844
+iter 2:
+john tagged a lewis tagged tuesday on tuesday baseball.
+we thought him to be unhappy him
+judy threw garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue and at sue.
+. collapsed harry.mbled harry.
+he said that book was hungry himself was professor himself. he said
+, book,
+-215.28074645996094
+iter 3:
+john tagged a lewis tagged tuesday on tuesday baseball.
+we thought him to be unhappy him
+judy threw garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue and at sue.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was book that. he said
+, book,
+-214.5131378173828
+iter 4:
+john tagged a lewis tagged tuesday on tuesday baseball.
+we thought him to be unhappy him
+judy threw garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john and mary gave the records at christmas and the books to sue and to sue.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was book that. he said
+, book,
+-214.49072265625
+Iter 2 continuous solution:
+john with regulation lewis tagged on on tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john gave sue to paying, gave mary for the the books birthday.
+mary john her mary gave the records at christmas and the books to sue. to birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was book that. he said
+available book.
+Iter 2 continuous solution obj:
+-200.1105499267578
+iter 0:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue at her birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-191.34097290039062
+iter 1:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue at her birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-191.34097290039062
+iter 2:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue at her birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-191.34097290039062
+iter 3:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue at her birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-191.34097290039062
+iter 4:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue the paying, gave mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue at her birthday.
+. collapsed harry.mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-191.34097290039062
+Iter 3 continuous solution:
+john tagged with lewis tagged on regulation tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john gave john to paying, sue mary for her the books birthday.
+mary john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harry,mbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+Iter 3 continuous solution obj:
+-177.26638793945312
+iter 0:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave andrew the paying, murdered mary for her the books birthday.
+john john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harrybmbled harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-172.10003662109375
+iter 1:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue longer paying, gave mary for gave the books birthday.
+john john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harry,b harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-172.0226593017578
+iter 2:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue to murdered, gave mary for gave the books birthday.
+john john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harry,b harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-171.9446563720703
+iter 3:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue to paying, find mary for gave the books birthday.
+john john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harry,b harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-171.86659240722656
+iter 4:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage judy threw them.
+john gave sue to paying, find mary for gave the books birthday.
+john john to mary gave the records at christmas and the books to sue for her birthday.
+. collapsed harry,b harry.
+he said that himself was hungry himself was like was. he said
+available book.
+-171.86659240722656
+Iter 4 continuous solution:
+john tagged with lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis a regulation, baseball mary on with a books tuesday.
+books john to mary gave the records at christmas and her books to sue for at birthday.
+collapsed collapsed harry collapsedb harry.
+he said that himself was hungry himself was like was. he said
+available book.
+Iter 4 continuous solution obj:
+-155.25494384765625
+iter 0:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis a regulation, baseball murdered on with the books tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed mont harry.
+he said that himself was hungry himself was like that. he said
+available book.
+-149.92698669433594
+iter 1:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis with regulation, baseball leah on longer the books tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed harry harry.
+he said that himself was hungry himself was like that. he said
+available book.
+-148.9594268798828
+iter 2:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis with regulation, baseball leah on longer the books tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed harry harry.
+he said that himself was hungry himself was like that. he said
+available book.
+-148.9594268798828
+iter 3:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis with regulation, baseball lewis on tuesday a for tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed harry harry.
+he said that himself was hungry himself was like that. he said
+available book.
+-148.78173828125
+iter 4:
+john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis with regulation, baseball andrew on tuesday, for tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed harry harry.
+he said that himself was hungry himself was like that. he said
+available book.
+-148.63290405273438
+Discrete solution is better
+Discrete solution:john tagged a lewis tagged on tuesday tuesday baseball.
+we thought him to be unhappy all
+judy, garbage pamphlet threw them.
+john tagged lewis with regulation, baseball andrew on tuesday, for tuesday.
+john john to mary gave the records at christmas and her books to sue for at birthday.
+. collapsed harry collapsed harry harry.
+he said that himself was hungry himself was like that. he said
+available book.
+Runtime: 27851.25 seconds
+-------------------------
+Batch 8:
+Current Reference:
+john was seeing his children.
+carla mopped the floor under the furniture.
+they expected us to should leave him.
+mr woodhouse sat in an armchair.
+it is likely that jean left.
+physicists like yourself are a godsend.
+any pilot could be flying this plane.
+we wonder if bill left.
+Iter 0 continuous solution:
+bill is if left. wonder
+looking john oak thrown. kind boston images children
+we bill wonder godsend a..
+mo floor carla the furniture.pped under
+text1... warm ha ;
+aend physicist like are yourself. physicists
+waist mr in an sat armchair wood.
+it likely left that jean.
+Iter 0 continuous solution obj:
+-284.5373840332031
+iter 0:
+bill is if left wonder.
+john john boston looking children thrown kind images.
+wonder bill bill godsend a we.
+mopped thepped. the furniture floor
+text ha warm ha ; warm text
+a physicists are a likeend yourself.
+mr wood sat sat in an. armchair
+likely jean left it left.
+-265.5399169921875
+iter 1:
+bill wonder if bill left.
+boston boston looking children children john boston. images
+we bill wonder godsend.end.
+the furniture carla mopped under. floor
+warm warm ha... ha warm ;
+physicists like yourself are like aend.
+an sat an mr sat in armchair.
+that jean likely left it.
+-257.35211181640625
+iter 2:
+is wonder if bill left.
+boston oak oak children children john boston. children
+we bill wonder godsend.end.
+the furniture carla mopped under. floor
+warm warm ha... ha warm ;
+physicists like yourself are a aend.
+an mr an sat sat in armchair.
+jean likely left left it.
+-249.3207244873047
+iter 3:
+is wonder if bill left.
+oak oak children children. john kind boston.
+we bill a godsend. wonder.
+the furniture carla mopped under. floor
+warm warm ha... ha warm ;
+physicists like yourself are a aend.
+mr mr wood sat sat an armchair.
+jean likely left left it.
+-246.94700622558594
+iter 4:
+is wonder if bill left.
+oak oak children children. john john kind.
+we bill a godsend. wonder.
+the furniture carla mopped under. floor
+warm... warm text ha ha ;
+physicists like yourself are a aend.
+mr mr wood sat sat an armchair.
+jean likely left left it.
+-246.5896759033203
+Iter 1 continuous solution:
+we wonder if bill left.
+oak john children children was seeing his kind.
+physicists yourself godsend are like.
+the furniture carla mopped under. floor
+physicist? warm text ha ha.
+physicists like yourself are a aend.
+carla mr mopped sat the armchair.
+jean likely left that it.
+Iter 1 continuous solution obj:
+-209.689453125
+iter 0:
+we wonder if bill left.
+boston oak oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped furniture. floor
+physicist? text text ha ha.
+physicist yourself like yourself are a aend.
+carla mr mopped sat an armchair.
+jean likely left that it.
+-200.09422302246094
+iter 1:
+we wonder if bill left.
+boston oak oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+physicist? text text ha ha.
+physicist yourself like yourself are a aend.
+carla mr mopped sat an armchair.
+jean likely left that it.
+-199.9351348876953
+iter 2:
+we wonder if bill left.
+oak oak oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+physicist? text text ha ha.
+physicist yourself like yourself are a aend.
+carla mr mopped sat an armchair.
+jean likely left that it.
+-199.91055297851562
+iter 3:
+we wonder if bill left.
+oak oak oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+physicist? text text ha ha.
+physicist yourself like yourself are a aend.
+carla mr mopped sat an armchair.
+jean likely left that it.
+-199.91055297851562
+iter 4:
+we wonder if bill left.
+oak oak oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+physicist? text text ha ha.
+physicist yourself like yourself are a aend.
+carla mr mopped sat an armchair.
+jean likely left that it.
+-199.91055297851562
+Iter 2 continuous solution:
+we wonder if bill left.
+oak john oak children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+pilot. could be any plane.
+physicist yourself like yourself are a aend.
+##house mr woodpped sat an armchair.
+jean likely left that is.
+Iter 2 continuous solution obj:
+-169.05911254882812
+iter 0:
+we wonder if bill left.
+oak john his children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+any plane could be any pilot.
+physicists like yourself are a aend.
+carla mr wood sat sat an armchair.
+jean likely left that it.
+-165.38938903808594
+iter 1:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+any plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood sat sat in armchair.
+jean likely left that it.
+-164.7621612548828
+iter 2:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+any plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood sat sat in armchair.
+jean likely left that it.
+-164.7621612548828
+iter 3:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+any plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood sat sat in armchair.
+jean likely left that it.
+-164.7621612548828
+iter 4:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+any plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood sat sat in armchair.
+jean likely left that it.
+-164.7621612548828
+Iter 3 continuous solution:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that is.
+Iter 3 continuous solution obj:
+-155.7946014404297
+iter 0:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood an sat in armchair.
+jean likely left that it.
+-152.04750061035156
+iter 1:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood an sat in armchair.
+jean likely left that it.
+-152.04750061035156
+iter 2:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this plane could be any pilot.
+physicists like yourself are a aend.
+mr mr wood an sat in armchair.
+jean likely left that it.
+-152.04750061035156
+iter 3:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+mr mr wood an sat in armchair.
+jean likely left that it.
+-151.8348846435547
+iter 4:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+mr mr wood an sat in armchair.
+jean likely left that it.
+-151.8348846435547
+Iter 4 continuous solution:
+we wonder if bill left.
+oak john expected children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that is.
+Iter 4 continuous solution obj:
+-137.55844116210938
+iter 0:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+-135.7457733154297
+iter 1:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+-135.7457733154297
+iter 2:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+-135.7457733154297
+iter 3:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+-135.7457733154297
+iter 4:
+we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+-135.7457733154297
+Discrete solution is better
+Discrete solution:we wonder if bill left.
+oak john kind children was seeing his children.
+physicist like yourself godsend ares.
+the furniture carla mopped under. floor
+this pilot could be any plane.
+physicists like yourself are a aend.
+##house mr wood an sat in armchair.
+jean likely left that it.
+Runtime: 20518.35 seconds
