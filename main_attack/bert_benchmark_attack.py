@@ -3,6 +3,7 @@ from transformers import BertForSequenceClassification, BertTokenizerFast
 from utils import *
 from argparse import ArgumentParser
 import gc
+import os
 
 parser = ArgumentParser(description='bert_attack')
 parser.add_argument('--device', default="cuda:0", type=str, help='cuda device')
@@ -17,7 +18,14 @@ args = parser.parse_args()
 
 DEVICE = args.device
 BATCH_SIZE = args.batch_size
-RESULT_FILE = f"../results/benchmark/{args.dataset}/{args.model}_{args.run}_run_b_{BATCH_SIZE}.txt"
+directory = f"../results/benchmark/{args.dataset}"
+if not os.path.exists(directory):
+    try:
+        os.makedirs(directory)
+    except FileExistsError:
+        pass
+RESULT_FILE = f"{directory}/{args.model}_{args.run}_run_b_{BATCH_SIZE}.txt"
+
 PARALLEL = args.parallel
 RECOVER_BATCH = args.recover_batch
 lr_decay_type = args.lr_decay_type
@@ -104,8 +112,8 @@ for batch_sequences, batch_labels in train_loop:
     lr = 0.01
     gc.collect()
     torch.cuda.empty_cache()
-    # Turn off dropout
     server.eval()
+
     for i in range(5):
         print("Optimize dropout mask: " + str(optimize_dropout_mask))
         continuous_optimizer = ContinuousOptimizerIndividual(copy.deepcopy(discrete_solution), copy.deepcopy(server),

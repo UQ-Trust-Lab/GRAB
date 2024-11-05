@@ -337,12 +337,21 @@ def main():
         print('========================', flush=True)
 
         if args.baseline:
-            result_file = f"results/benchmark/{args.loss}/{args.dataset}/{args.bert_path}_{args.run}_run_{args.batch_size}_results.txt"
+            directory = f"results/benchmark/{args.loss}/{args.dataset}"
         else:
             if args.loss == "tag":
-                result_file = f"results/benchmark/lamp_l1l2/{args.dataset}/{args.bert_path}_{args.run}_run_{args.batch_size}_results.txt"
+                directory = f"results/benchmark/lamp_l1l2/{args.dataset}"
             else:
-                result_file = f"results/benchmark/lamp_{args.loss}/{args.dataset}/{args.bert_path}_{args.run}_run_{args.batch_size}_results.txt"
+                directory = f"results/benchmark/lamp_{args.loss}/{args.dataset}"
+
+        if not os.path.exists(directory):
+            try:
+                os.makedirs(directory)
+            except FileExistsError:
+                pass
+
+        result_file = f"{directory}/{args.bert_path}_{args.run}_run_{args.batch_size}_results.txt"
+
         with open(result_file, "a",
                   encoding="utf-8") as f:
             f.write("--------------------\n")

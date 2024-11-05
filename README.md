@@ -12,7 +12,7 @@ pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu11
 pip install transformers==4.34.1 joblib==1.3.2 numpy==1.26.4 datasets==1.16.1 torchmetrics==1.4.1 nltk==3.9.1
 ```
 
-### Download the required data for nltk in the python consolef
+### Download the required data for nltk in the python console
 
 ```bash
 python
@@ -42,89 +42,82 @@ ln -s ../utils utils
 
 Run the attack with the following command.
 <br>
-<code>python bert_benchmark_attack.py --device DEVICE --model MODEL --dataset DATASET --batch_size BATCH_SIZE
---parallel --run RUN</code>
-
---device: the device to run experiments on, e.g. cuda:0
-<br>
---model: the model to be attacked. Only use bert-base-uncased.
-<br>
---dataset: the dataset for experiments. Only use cola, sst2, or rotten_tomatoes.
-<br>
---batch_size: the batch size for experiments. Choose from 1 to 32.
-<br>
---parallel: whether to use parallel computing in discrete optimization.
-<br>
+```bash
+python bert_benchmark_attack.py --device DEVICE --model MODEL --dataset DATASET --batch_size BATCH_SIZE --parallel --run RUN
+```
+--device: the device to run experiments on, e.g., cuda:0\
+--model: the model to be attacked. Only use bert-base-uncased for this experiment.\
+--dataset: the dataset for experiments. Only use cola, sst2, or rotten_tomatoes.\
+--batch_size: the batch size for experiments. Choose from 1 to 32.\
+--parallel: whether to use parallel computing in discrete optimization. Remove this flag if you do not want to use parallel computing.\
 --run: the number of runs for each experiment. Use first, second, or third.
 
-The results will be saved in <code>results/benchmark/DATASET</code> from root directory. Make sure you create these
-folders before running the experiments.
+The results will be saved in ```results/benchmark/DATASET``` from root directory.
 
-In our experiments, we do not set a fixed random seed and run the experiments three times by changing the <code>
---run</code> parameter between first, second and third.
+In our experiments, we do not set a fixed random seed and run the experiments three times by changing the ```
+--run``` parameter between first, second and third.
 
 To evaluate the results, go back to the root directory and run the following command.
-<br>
-<code>python evaluation.py --model MODEL --dataset DATASET --batch_size BATCH_SIZE --setting SETTING</code>
 
+```bash
+python evaluation.py --model MODEL --dataset DATASET --batch_size BATCH_SIZE --setting SETTING
+```
 --setting: the setting for evaluation. Only use benchmark here.
 
 As mentioned above, we run the experiments three times. If you only wish to run the experiment once and evaluate the
-result, you can change line 25 in the evaluation script to keep "first" only.
+result, you can change line 35 in the evaluation script to keep "first" only.
 
-<h4>Baselines</h4>
+#### Baselines
 To run baseline attacks, from the root directory, go to the baselines folder.
-<br>
-<code>cd baselines/lamp</code>
+```bash 
+cd baselines/lamp
+```
 
 Create the environment and download the required files provided by LAMP.
-<br>
-<code>conda env create -f environment.yml</code>
-<br>
-<code>conda activate lamp</code>
-<br>
-<code>wget -r -np -R "index.html*" https://files.sri.inf.ethz.ch/lamp/ </code>
-<br>
-<code>mv files.sri.inf.ethz.ch/lamp/* ./ </code>
-<br>
-<code>rm -rf files.sri.inf.ethz.ch </code>
+```bash
+conda env create -f environment.yml
+conda activate lamp
+wget -r -np -R "index.html*" https://files.sri.inf.ethz.ch/lamp/
+mv files.sri.inf.ethz.ch/lamp/* ./
+rm -rf files.sri.inf.ethz.ch
+```
 
-We modify some of the code of the original implementation, such as the datasets loader, to make it compatible with our
+We modified some of the code of the original implementation, such as the datasets loader, to make it compatible with our
 evaluation.
 
 To run DLG attack, run the following command.
-<br>
-<code>python attack.py --baseline --dataset DATASET --split test --loss dlg --n_inputs N_INPUTS -b BATCH_SIZE --lr 0.1
---lr_decay 1 --bert_path MODEL --n_steps 2500 --run RUN</code>
+```bash
+python attack.py --baseline --dataset DATASET --split test --loss dlg --n_inputs N_INPUTS -b BATCH_SIZE --lr 0.1 --lr_decay 1 --bert_path MODEL --n_steps 2500 --run RUN
+```
 
---n_inputs: The number of batches. Our selected datasets have 64 samples. This should be 64/batch_size.
-<br>
+--dataset: the dataset for experiments. Only use cola, sst2, or rotten_tomatoes.\
+--n_inputs: The number of batches. Our selected datasets have 64 samples. This should be 64/batch_size.\
+--b: the batch size for experiments. Choose from 1 to 32.\
+--bert_path: the model to be attacked. Only use bert-base-uncased for this experiment.\
 --run: the number of runs for each experiment. Use first, second, or third.
 
 To run the TAG attack, run the following command.
-<br>
-<code>python attack.py --baseline --dataset DATASET --split test --loss tag --n_inputs N_INPUTS -b BATCH_SIZE --lr 0.1
---lr_decay 1 --tag_factor 0.01 --bert_path MODEL --n_steps 2500 --run RUN</code>
+```bash
+python attack.py --baseline --dataset DATASET --split test --loss tag --n_inputs N_INPUTS -b BATCH_SIZE --lr 0.1 --lr_decay 1 --tag_factor 0.01 --bert_path MODEL --n_steps 2500 --run RUN
+```
 
 To run the LAMP_COS attack, run the following command.
-<br>
-<code>python attack.py --dataset DATASET --split test --loss cos --n_inputs N_INPUTS -b BATCH_SIZE --coeff_perplexity
-0.2 --coeff_reg 1 --lr 0.01 --lr_decay 0.89 --bert_path MODEL --n_steps 2000 --run RUN</code>
+```bash
+python attack.py --dataset DATASET --split test --loss cos --n_inputs N_INPUTS -b BATCH_SIZE --coeff_perplexity 0.2 --coeff_reg 1 --lr 0.01 --lr_decay 0.89 --bert_path MODEL --n_steps 2000 --run RUN
+```
 
 To run the LAMP_L1L2 attack, run the following command.
-<br>
-<code>python attack.py --dataset DATASET --split test --loss tag --n_inputs N_INPUTS -b BATCH_SIZE --coeff_perplexity 60
---coeff_reg 25 --lr 0.01 --lr_decay 0.89 --tag_factor 0.01 --bert_path MODEL --n_steps 2000 --run RUN</code>
+```bash
+python attack.py --dataset DATASET --split test --loss tag --n_inputs N_INPUTS -b BATCH_SIZE --coeff_perplexity 60 --coeff_reg 25 --lr 0.01 --lr_decay 0.89 --tag_factor 0.01 --bert_path MODEL --n_steps 2000 --run RUN
+```
 
-The results will be saved to <code>results/benchmark/METHOD/DATASET</code> from the <code>lamp</code> folder.
-Make sure you create these folders
-before running the experiments.
+The results will be saved to ```results/benchmark/METHOD/DATASET``` from the ```lamp``` folder.
 
-To evaluate the results, go back to the <code>lamp</code> folder and run the following command.
-<br>
-<code>python evaluation.py --model MODEL --dataset DATASET --batch_size BATCH_SIZE --setting SETTING --method
-METHOD</code>
+To evaluate the results, go back to the ```lamp``` folder and run the following command.
 
+```bash
+python evaluation.py --model MODEL --dataset DATASET --batch_size BATCH_SIZE --setting SETTING --method METHOD
+```
 --method: the method being evaluated. Choose from dlg, tag, lamp_cos, and lamp_l1l2.
 
 Similar to our attack, we run the experiments three times. If you only wish to run the experiment once and evaluate the

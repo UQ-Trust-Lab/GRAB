@@ -3,17 +3,17 @@ from torchmetrics.text.rouge import ROUGEScore
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description='Evaluation')
-parser.add_argument('--model', default="bert-base-uncased", type=str, help='large language model')
+parser.add_argument('--model', default="bert-base-uncased", type=str)
 parser.add_argument('--dataset', default="cola", type=str, help='dataset for task')
 parser.add_argument("--batch_size", default=1, type=int, help="batch size")
 parser.add_argument("--setting", default="benchmark", type=str, help="setting for evaluation")
 parser.add_argument("--ablation", default="no-ablation", type=str, help="ablation or not")
 parser.add_argument("--dropout", default=0.1, type=float, help="dropout rate")
 parser.add_argument("--defense", default="no-defense", type=str, help="defense or not")
-parser.add_argument("--noise", default=0.001, type=float, help="dropout rate")
-parser.add_argument("--counter_noise", default="DL_NN", type=str, help="defense or not")
-parser.add_argument("--prune", default=0.75, type=float, help="dropout rate")
-parser.add_argument("--counter_prune", default="DL_PM", type=str, help="defense or not")
+parser.add_argument("--noise", default=0.001, type=float, help="noise level")
+parser.add_argument("--counter_noise", default="DL_NN", type=str, help="counter noise or not")
+parser.add_argument("--prune", default=0.75, type=float, help="prune ratio")
+parser.add_argument("--counter_prune", default="DL_PM", type=str, help="counter prune or not")
 args = parser.parse_args()
 
 model = args.model
