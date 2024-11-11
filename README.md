@@ -118,13 +118,17 @@ To evaluate the results, go back to the ```lamp``` folder and run the following 
 ```bash
 python evaluation.py --model MODEL --dataset DATASET --batch_size BATCH_SIZE --setting SETTING --method METHOD
 ```
---method: the method being evaluated. Choose from dlg, tag, lamp_cos, and lamp_l1l2.
+--model: the model to be attacked. Only use bert-base-uncased for this experiment.\
+--dataset: the dataset for experiments. Only use cola, sst2, or rotten_tomatoes.\
+--batch_size: the batch size for experiments. Choose from 1 to 32.\
+--setting: the setting for evaluation. Only use benchmark here.\
+--method: the method being evaluated. Choose from dlg, tag, lamp_cos, and lamp_l1l2.\
 
 Similar to our attack, we run the experiments three times. If you only wish to run the experiment once and evaluate the
 result, you can change line 25 in the evaluation script to keep "first" only.
 
-For more information on the baseline attacks, check out the LAMP repository:
-<code>https://github.com/eth-sri/lamp </code>
+For more information on the baseline attacks, check out the LAMP repository at https://github.com/eth-sri/lamp
+
 
 <h3> Practical Settings (Figure 3 in paper) </h3>
 
